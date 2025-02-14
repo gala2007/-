@@ -1,0 +1,15 @@
+
+{
+  "name": "galax-bot",
+  "version": "1.0.0",
+  "description": "A custom WhatsApp bot named ╰‿╯ＧＡＬＡＸ╰‿╯",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest",
+    "dotenv": "latest"
+  }
+}
